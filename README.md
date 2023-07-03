@@ -1,6 +1,5 @@
 # Cryptoinfo
 
-You can checkout my project here => https://jade-souffle-009c9b.netlify.app/
+You can checkout my project here => https://cryptoinfo-99.netlify.app/
 
-Currently working on the responsive version of this react web-app will release soon.
 
